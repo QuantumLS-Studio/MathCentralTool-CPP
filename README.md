@@ -1,3 +1,7 @@
+# This repo has been archived
+
+The new one is [here](https://github.com/QuantumLS-Studio/MathTool-CLI)
+
 <div align="center">
     <img width="175" src="/assets/MCT.png"></img>
 </div>
